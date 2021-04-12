@@ -284,8 +284,59 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  fill: #ffffff;
   width: 66px;
 }
+
+.slider-buttons1 {
+  position: absolute;
+  right: 10%;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  fill: #ffffff;
+  width: 66px;
+}
+
+.recommended-button-prev:focus,
+.recommended-button-prev:active {
+  outline: none;
+}
+
+.recommended-button-next:focus,
+.recommended-button-next:active {
+  outline: none;
+}
+
+.slider-buttons2 {
+  position: absolute;
+  right: 10%;
+  top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  fill: #ffffff;
+  width: 66px;
+}
+
+
+.subscribe-button:focus,
+.subscribe-button:active {
+  outline: none;
+}
+
+
+.recommendation-button-prev:focus,
+.recommendation-button-prev:active {
+  outline: none;
+}
+
+.recommendation-button-next:focus,
+.recommendation-button-next:active {
+  outline: none;
+}
+
 .recommended {
   position: relative;
   margin-bottom: 50px;
@@ -337,6 +388,7 @@ body {
   line-height: 20px;
   text-align: center;
   position: absolute;
+  margin-right: 40px;
   right: 16%;
   top: 5px;
   border: none;
