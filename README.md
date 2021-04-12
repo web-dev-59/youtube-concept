@@ -1,5 +1,5 @@
 # YouTubeConcept - учебный проект Glo Acadamy
-Проект выполнил Егай Виктор
+Проект выполнил Котельников Денис
 
 ## Используемые технологии
 - HTML
@@ -8,4 +8,3 @@
 - SVG Sprites
 - JavaScript
 
-https://viktoregai.github.io/YouTubeConcept/
