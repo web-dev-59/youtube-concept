@@ -1,4 +1,4 @@
-# YouTubeConcept - учебный проект Glo Acadamy
+# YouTubeConcept
 Проект выполнил Котельников Денис
 
 ## Используемые технологии
