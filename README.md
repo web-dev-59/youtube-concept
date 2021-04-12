@@ -1,8 +1,9 @@
-# Проект выполнил Котельников Денис
+## Проект выполнил Котельников Денис
 
-Используемые технологии
-HTML
-CSS
-Normalize.css
-SVG Sprites
-JavaScript
+###Используемые технологии
+
+-HTML
+-CSS
+-Normalize.css
+-SVG Sprites
+-JavaScript
